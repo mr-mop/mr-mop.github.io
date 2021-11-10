@@ -1,5 +1,5 @@
-        var api = '037075df7d1a4c83fc72bdf9d1049f43'; // API key for last.fm
-        var username = 'thatmitchcanter'; // last.fm username
+        var api = '907903928f935c20ac8686766c2839ff'; // API key for last.fm
+        var username = 'mr_mop'; // last.fm username
         var time = 2; // in seconds
 
         // First, we set variables for the 'current' and 'previous' tracks
